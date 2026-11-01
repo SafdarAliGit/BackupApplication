@@ -1,0 +1,23 @@
+{
+  "server": "194.163.151.253",
+  "host": "194.163.151.253",
+  "site": "abindustries.thesmarterp.com",
+  "bench": "/home/safdar/frappe-bench",
+  "backup_type": "db",
+  "created_at": "2026-10-28T21:15:44",
+  "files": [
+    {
+      "name": "20261028_214527-abindustries_thesmarterp_com-site_config_backup.json",
+      "kind": "config",
+      "size": 212
+    },
+    {
+      "name": "20261028_214527-abindustries_thesmarterp_com-database.sql.gz",
+      "kind": "database",
+      "size": 1144255
+    }
+  ],
+  "create_seconds": 15.3,
+  "copy_seconds": 4.5,
+  "run_id": 9
+}

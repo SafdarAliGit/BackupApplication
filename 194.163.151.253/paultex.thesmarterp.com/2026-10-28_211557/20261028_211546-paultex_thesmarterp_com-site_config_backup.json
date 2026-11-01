@@ -1,0 +1,13 @@
+{
+ "db_name": "paultex",
+ "db_password": "dqDjhq9eARpBSe6B",
+ "db_type": "mariadb",
+ "db_user": "paultex",
+ "installed_apps": [
+  "frappe",
+  "erpnext",
+  "garments_app_v3",
+  "mjfsd_v3"
+ ],
+ "maintenance_mode": 0
+}

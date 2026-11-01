@@ -1,0 +1,18 @@
+{
+  "server": "194.163.151.253",
+  "host": "194.163.151.253",
+  "site": "All MariaDB databases",
+  "bench": null,
+  "backup_type": "mariadb",
+  "created_at": "2026-10-28T21:17:56",
+  "files": [
+    {
+      "name": "194.163.151.253_all-databases_2026-10-28_211714.sql.gz",
+      "kind": "mariadb",
+      "size": 3804039
+    }
+  ],
+  "create_seconds": 34.7,
+  "copy_seconds": 4.9,
+  "run_id": 10
+}

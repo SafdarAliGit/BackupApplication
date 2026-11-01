@@ -1,0 +1,12 @@
+{
+ "db_name": "abindustries",
+ "db_password": "Podqwez5UzriF2kE",
+ "db_type": "mariadb",
+ "db_user": "abindustries",
+ "installed_apps": [
+  "frappe",
+  "erpnext",
+  "towel_production"
+ ],
+ "maintenance_mode": 0
+}

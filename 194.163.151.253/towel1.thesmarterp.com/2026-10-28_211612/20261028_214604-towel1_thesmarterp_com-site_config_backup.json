@@ -1,0 +1,14 @@
+{
+ "db_name": "towel1",
+ "db_password": "6arXTtFpIiqjXTYR",
+ "db_type": "mariadb",
+ "db_user": "towel1",
+ "installed_apps": [
+  "frappe",
+  "erpnext",
+  "emadi_v3",
+  "garments_app_v3",
+  "mjfsd_v3"
+ ],
+ "maintenance_mode": 0
+}
